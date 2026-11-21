@@ -1,0 +1,6 @@
+{
+  "name": "Vật Lí Lab — Mô phỏng & Ôn thi THPTQG",
+  "description": "Phòng thí nghiệm mô phỏng vật lí phổ thông Lớp 10, 11, 12 thời gian thực kèm bảng đối chiếu thông số, sơ đồ quy đổi công thức thi THPTQG và trợ lý AI kỹ thuật chuyên sâu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
